@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **Bite Of History** - a food history recipe sharing website. 
 
-- 💬 Ask me about: **react, java, javascript**
+- 💬 Ask me about: **React, Java, JavaScript**
 
 - 📫 How to reach me: **e.melendez98@outlook.com**
 
