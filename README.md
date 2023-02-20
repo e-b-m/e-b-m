@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
 
-- 🔭 I’m currently working on **Bite Of History**
+- 🔭 I’m currently working on **Bite Of History** - a food history recipe sharing website. 
 
 - 💬 Ask me about **react, java, javascript**
 
 - 📫 How to reach me **e.melendez98@outlook.com**
 
-- ⚡ Fun fact **I recently got into bouldering!**
+- ⚡ Fun fact **I recently got into bouldering and though I still fear falling I highly recommend!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
