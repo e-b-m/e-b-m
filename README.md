@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emma</h1>
+<h1 align="center">Hi 👋, I'm Em</h1>
 <h3 align="center">A curious Politics graduate turned Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
