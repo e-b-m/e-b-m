@@ -1,6 +1,9 @@
+<p align="center">
+<img alt="TransparentLogo" src="" height="200" align="center"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Em</h1> 
-<p> Also known as <b> em__codes <b> </p> 
-  ![Orange Pixel Game Controller Twitch Logo (1)](https://user-images.githubusercontent.com/116574907/220333971-26c3a916-bf50-4615-b15e-fcbc05df5197.png)
+<h2> Also known as <b> em__codes <b> </h2> 
 
 <h3 align="center">A curious Politics graduate turned Full-Stack Software Engineer</h3>
 
