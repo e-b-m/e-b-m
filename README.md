@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Em</h1>
+<h1 align="center">Hi 👋, I'm Em</h1> 
+<p> Also known as <b> em__codes <b> </p> 
+  ![Orange Pixel Game Controller Twitch Logo (1)](https://user-images.githubusercontent.com/116574907/220333971-26c3a916-bf50-4615-b15e-fcbc05df5197.png)
+
 <h3 align="center">A curious Politics graduate turned Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
