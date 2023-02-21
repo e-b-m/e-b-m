@@ -8,7 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
 
-- 🔭 I’m currently working on: **Bite Of History** - a food history recipe sharing website. 
+<h1>About Me!</h1>
+
+- 🔭 I’m currently working on: **Bite Of History** - a food history recipe sharing website 
+
+- 🌱 Currently learning: Tailwind 
+
+- 👯 Looking to collaborate on: projects that have a clear social impact especially anything founded by women (please get in contact if you need support with anything!) Also projects that have lots of learning opportunities - looking to upskill myself with new languages. 
 
 - 💬 Ask me about: **React, Java, JavaScript**
 
