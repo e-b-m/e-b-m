@@ -2,7 +2,7 @@
 <img alt="TransparentLogo" src="https://user-images.githubusercontent.com/116574907/220334583-f453f994-8bfd-4506-a6b1-0e943e3c3a20.png" height="200" align="center"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Em ... also known as em__codes </h1> 
+<h1 align="center">Hi 👋, I'm Em </h1> 
 
 <h3 align="center">A curious Politics graduate turned Full-Stack Software Engineer</h3>
 
