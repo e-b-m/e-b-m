@@ -10,17 +10,17 @@
 
 <h1>About Me!</h1>
 
-- 🔭 I’m currently working on: **Bite Of History** - a food history recipe sharing website 
+- 🔭 I’m currently working on: **Tech Pod** - a social community space for those wanting to break into tech. 
 
-- 🌱 Currently learning: Tailwind 
+- 🌱 Currently learning: how to build a full-stack project on my own.  
 
-- 👯 Looking to collaborate on: projects that have a clear social impact especially anything founded by women (please get in contact if you need support with anything!) Also projects that have lots of learning opportunities - looking to upskill myself with new languages. 
+- 👯 Looking to collaborate on: projects that have a clear social impact and lots of learning opportunities - looking to upskill myself with new languages. 
 
 - 💬 Ask me about: **React, Java, JavaScript**
 
-- 📫 How to reach me: **e.melendez98@outlook.com**
+- 📫 How to reach me: **e.melendez98@outlook.com or check out my Instagram below!**
 
-- ⚡ Fun fact: **I recently got into bouldering and though I still fear falling I highly recommend!**
+- ⚡ Fun facts: **I love for bouldering, creating meaningful content, modern art & discovering cultures through cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
