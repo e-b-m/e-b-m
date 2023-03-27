@@ -20,7 +20,7 @@
 
 - 💬 Ask me about: **React, Java, JavaScript**
 
-- 📫 How to reach me: **e.melendez98@outlook.com or check out my Instagram below!**
+- 📫 How to reach me: e.melendez98@outlook.com **or** check out my Instagram below!
 
 - ⚡ Fun facts: **I love for bouldering, creating meaningful content, modern art & discovering cultures through cooking**
 
