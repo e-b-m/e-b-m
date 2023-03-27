@@ -4,11 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Em </h1> 
 
-<h3 align="center">A curious Politics graduate turned Full-Stack Software Engineer</h3>
+<h3 align="center"> Curious Politics graduate turned Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
 
 <h1>About Me!</h1>
+
+- 👩🏽‍💻 Who am I: after discovering a love for programming through Code First Girls I went on to complete a 12-week technology bootcamp with Bright Network. Since then I've been trying my best to keep on top of my skills and share my journey as I go! 
 
 - 🔭 I’m currently working on: **Tech Pod** - a social community space for those wanting to break into tech. 
 
