@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: e.melendez98@outlook.com **or** check out my Instagram below!
 
-- ⚡ Fun facts: **I love for bouldering, creating meaningful content, modern art & discovering cultures through cooking**
+- ⚡ Fun facts: **I love bouldering, creating meaningful content, modern art & discovering cultures through cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
