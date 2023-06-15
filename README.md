@@ -10,9 +10,9 @@
 
 <h1>About Me!</h1>
 
-- 👩🏽‍💻 Who am I: after discovering a love for programming through Code First Girls I went on to complete a 12-week technology bootcamp with Bright Network. Since then I've been trying my best to keep on top of my skills and share my journey as I go! 
+- 👩🏽‍💻 Who am I: Software developer who transitioned into tech after completing a 12-week bootcamp with Bright Network. Founder of She Chats Tech an educational and social space supporting women in the early stages of their tech journey. Follow along with my journey here <a href="**https://www.linkedin.com/company/she-chats-tech/**"/> 
 
-- 🔭 I’m currently working on: **Tech Pod** - a social community space for those wanting to break into tech. 
+- 🔭 I’m currently working on: **She Chats Tech** -building the front-end of my organisation out! 
 
 - 🌱 Currently learning: how to build a full-stack project on my own.  
 
@@ -20,14 +20,14 @@
 
 - 💬 Ask me about: **React, Java, JavaScript**
 
-- 📫 How to reach me: e.melendez98@outlook.com **or** check out my Instagram below!
+- 📫 How to reach me: emmabmelendez@gmail.com **or** check out my Instagram below!
 
 - ⚡ Fun facts: **I love bouldering, creating meaningful content, modern art & discovering cultures through cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/emmabayley-melendez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmabayley-melendez/" height="30" width="40" /></a>
-<a href="https://instagram.com/em__codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@em__codes" height="30" width="40" /></a>
+<a href="https://instagram.com/shechatstech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shechatstech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
