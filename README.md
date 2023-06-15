@@ -10,7 +10,7 @@
 
 <h1>About Me!</h1>
 
-- 👩🏽‍💻 Who am I: Software developer who transitioned into tech after completing a 12-week bootcamp with Bright Network. Founder of She Chats Tech an educational and social space supporting women in the early stages of their tech journey. Follow along with my journey here <a href="**https://www.linkedin.com/company/she-chats-tech/**"/> 
+- 👩🏽‍💻 Who am I: Software developer who transitioned into tech after completing a 12-week bootcamp with Bright Network. Founder of She Chats Tech an educational and social space supporting women in the early stages of their tech journey. Follow along with my journey here **https://www.linkedin.com/company/she-chats-tech/** 
 
 - 🔭 I’m currently working on: **She Chats Tech** -building the front-end of my organisation out! 
 
