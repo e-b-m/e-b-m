@@ -12,11 +12,11 @@
 
 - 👩🏽‍💻 Who am I: Software developer who transitioned into tech after completing a 12-week technology bootcamp with Bright Network.
 
-- 💡 She Chats Tech: Founder of She Chats Tech an educational and social space supporting women in the early stages of their tech journey. Follow along with my journey here **https://www.linkedin.com/company/she-chats-tech/** 
+- 💡 She Chats Tech: Founder of She Chats Tech an educational and social space supporting women from non-tech backgrounds in the early stages of their tech journey. Follow along with my journey here **https://www.linkedin.com/company/she-chats-tech/** 
 
 - 🔭 I’m currently working on: **She Chats Tech** -building the front-end of my organisation in React! 
 
-- 🌱 Currently learning: Swift.   
+- 🌱 Currently learning: UIkit and Swift UI.   
 
 - 👯 Looking to collaborate on: projects that have a clear social impact and lots of learning opportunities - looking to upskill myself with new languages. 
 
