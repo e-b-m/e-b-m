@@ -1,8 +1,7 @@
-<p align="center">
-<img alt="TransparentLogo" src="https://user-images.githubusercontent.com/116574907/220334583-f453f994-8bfd-4506-a6b1-0e943e3c3a20.png" height="200" align="center"/>
-</p>
 
-<p><img alt="TransparentLogo" src="https://github.com/e-b-m/e-b-m/assets/116574907/134c3c98-2e94-4e84-a109-1463abee9fde.png" height="200" align="center"/> 
+
+<p align="center">
+  <img alt="TransparentLogo" src="https://github.com/e-b-m/e-b-m/assets/116574907/134c3c98-2e94-4e84-a109-1463abee9fde.png" height="300" align="center"/> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Em </h1> 
