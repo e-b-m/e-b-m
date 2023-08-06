@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Em </h1> 
 
-<h3 align="center"> A Techie with a Twist: Politics graduate turned iOS Graduate Developer</h3>
+<h3 align="center"> A Techie with a Twist: Politics graduate turned Graduate iOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on: **She Chats Tech** -building the front-end of my organisation in React! 
 
-- 🌱 Currently learning: UIkit and Swift UI.   
+- 🌱 Currently learning: Swift, UIkit and Swift UI.   
 
 - 👯 Looking to collaborate on: projects that have a clear social impact and lots of learning opportunities - looking to upskill myself with new languages. 
 
