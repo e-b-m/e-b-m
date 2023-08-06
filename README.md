@@ -1,7 +1,7 @@
 
 
 <pre align="center">
-  <img alt="TransparentLogo" src="https://github.com/e-b-m/e-b-m/assets/116574907/134c3c98-2e94-4e84-a109-1463abee9fde.png" height="300" align="center" padding=0 style="border: 2px solid  lilac" /> 
+  <img alt="TransparentLogo" src="https://github.com/e-b-m/e-b-m/assets/116574907/134c3c98-2e94-4e84-a109-1463abee9fde.png" height="300" align="center" padding=0 border-radius= 50% border= 2px /> 
 </pre> 
 
 <h1 align="center">Hi 👋, I'm Em </h1> 
