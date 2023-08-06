@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: emmabmelendez@gmail.com **or** check out my Instagram below!
 
-- ⚡ Fun facts: **I play D&D, love creating content & modern art**
+- ⚡ Fun facts: **I play D&D, love creating content, exploring galleries & fancy coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
