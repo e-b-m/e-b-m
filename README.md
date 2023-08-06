@@ -6,13 +6,13 @@
 
 <h1 align="center">Hi 👋, I'm Em </h1> 
 
-<h3 align="center"> Curious Politics graduate turned Full-Stack Software Developer</h3>
+<h3 align="center"> A Techie with a Twist: Politics graduate turned iOS Graduate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-b-m&label=Profile%20views&color=0e75b6&style=flat" alt="e-b-m" /> </p>
 
 <h1>About Me!</h1>
 
-- 👩🏽‍💻 Who am I: Software developer who transitioned into tech after completing a 12-week technology bootcamp with Bright Network.
+- 👩🏽‍💻 Who am I: Software developer who transitioned into tech after completing a 12-week technology bootcamp with Bright Network now I'm working as a Grad iOS Developer in the iGaming Industry. 
 
 - 💡 She Chats Tech: Founder of She Chats Tech an educational and social space supporting women from non-tech backgrounds in the early stages of their tech journey. Follow along with my journey here **https://www.linkedin.com/company/she-chats-tech/** 
 
